@@ -1,0 +1,6 @@
+*.log
+*.swo
+*.swp
+output/
+github.sh
+github.ssh.rsa.pem
